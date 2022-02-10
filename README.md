@@ -1,4 +1,4 @@
-# unheic
+# vol
 
 *Simple bash script for adjusting the system volume on macOS.*
 
